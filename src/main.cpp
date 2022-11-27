@@ -2,6 +2,7 @@
 
 // defines variables
 float duration; // variable for the duration of sound wave travel
+//duration gausah float bang int aja
 float distance1 = 0; // variable for the distance measurement
 unsigned long previousTime = 0;
 unsigned long interval = 500;
